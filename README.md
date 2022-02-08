@@ -1,10 +1,10 @@
-Tracert
+##Tracert
 <br>
 
 This program can be used to perform trace routes similar to that which<br>
 can be found on windows machines via "tracert" in DOS<br><br>
 
-Features
+##Features
 <br>
 - perform traceroute to a given domain name
 - write traceroute results to an output file
